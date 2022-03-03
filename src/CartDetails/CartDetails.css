@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.cart-naming {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+
+.cart-details-hr {
+    width: 1200px;
+    margin-top: 20px;
+}

@@ -1,0 +1,124 @@
+* {
+    box-sizing: border-box;
+}
+
+.cart-item-title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.cart-item-type {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.cart-item-price {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.size-button {
+    width: 65px;
+    height: 45px;
+    background-color: white;
+    font-size: 16px;
+    padding: 10px;
+    border-color: black;
+}
+
+.size-button:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.plus-minus-button {
+    width: 48px;
+    height: 45px;
+    background-color: white;
+    font-size: 30px;
+    padding: 4px;
+    border-color: black;
+}
+
+.plus-minus-button:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.item-quantity {
+    font-size: 25px;
+    margin: 35px 15px 35px 15px;
+    font-family: verdana;
+}
+
+.cart-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1220px;
+}
+
+.cart-item-title-mini {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.cart-item-type-mini {
+    font-size: 18px;
+    margin-top: 4px;
+}
+
+.cart-item-price-mini {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 16px;
+}
+
+.size-button-mini {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    font-size: 12px;
+    padding: 6px;
+    border-color: black;
+    margin-top: 10px;
+}
+
+.size-button-mini:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.plus-minus-button-mini {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    font-size: 18px;
+    padding: 4px;
+    border-color: black;
+}
+
+.plus-minus-button-mini:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.item-quantity-mini {
+    font-size: 16px;
+    margin: 35px 8px 35px 8px;
+    font-family: verdana;
+}
+
+.cart-content-mini {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 320px;
+}
