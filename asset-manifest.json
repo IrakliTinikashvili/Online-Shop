@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IrakliTinikashvili/static/css/main.ee74acb7.css",
+    "main.js": "/IrakliTinikashvili/static/js/main.d9ca798c.js",
+    "static/media/Image1-5.jpg": "/IrakliTinikashvili/static/media/Image1-5.588159a98021ea431998.jpg",
+    "static/media/Image1-5-cut.png": "/IrakliTinikashvili/static/media/Image1-5-cut.b73da35abca760d27032.png",
+    "static/media/Image7.png": "/IrakliTinikashvili/static/media/Image7.7ff971f6fce3562e5e67.png",
+    "index.html": "/IrakliTinikashvili/index.html",
+    "main.ee74acb7.css.map": "/IrakliTinikashvili/static/css/main.ee74acb7.css.map",
+    "main.d9ca798c.js.map": "/IrakliTinikashvili/static/js/main.d9ca798c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee74acb7.css",
+    "static/js/main.d9ca798c.js"
+  ]
+}
