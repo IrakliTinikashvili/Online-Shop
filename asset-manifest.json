@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/IrakliTinikashvili/static/css/main.ee74acb7.css",
-    "main.js": "/IrakliTinikashvili/static/js/main.00e47356.js",
-    "static/media/Image1-5.jpg": "/IrakliTinikashvili/static/media/Image1-5.588159a98021ea431998.jpg",
-    "static/media/Image2.jpg": "/IrakliTinikashvili/static/media/Image2.c2d1ad7c46ae2f79bc7c.jpg",
-    "static/media/Image4.png": "/IrakliTinikashvili/static/media/Image4.24204ecb3e445ab306f8.png",
-    "static/media/Image1-5-cut.png": "/IrakliTinikashvili/static/media/Image1-5-cut.b73da35abca760d27032.png",
-    "static/media/Image6.jpg": "/IrakliTinikashvili/static/media/Image6.e5262585ada89ef36366.jpg",
-    "static/media/Image3.jpg": "/IrakliTinikashvili/static/media/Image3.870e700406c674155110.jpg",
-    "static/media/Image7.png": "/IrakliTinikashvili/static/media/Image7.7ff971f6fce3562e5e67.png",
-    "index.html": "/IrakliTinikashvili/index.html",
-    "main.ee74acb7.css.map": "/IrakliTinikashvili/static/css/main.ee74acb7.css.map",
-    "main.00e47356.js.map": "/IrakliTinikashvili/static/js/main.00e47356.js.map"
+    "main.css": "/Online-Shop/static/css/main.ee74acb7.css",
+    "main.js": "/Online-Shop/static/js/main.cdd73d58.js",
+    "static/media/Image1-5.jpg": "/Online-Shop/static/media/Image1-5.588159a98021ea431998.jpg",
+    "static/media/Image2.jpg": "/Online-Shop/static/media/Image2.c2d1ad7c46ae2f79bc7c.jpg",
+    "static/media/Image4.png": "/Online-Shop/static/media/Image4.24204ecb3e445ab306f8.png",
+    "static/media/Image1-5-cut.png": "/Online-Shop/static/media/Image1-5-cut.b73da35abca760d27032.png",
+    "static/media/Image6.jpg": "/Online-Shop/static/media/Image6.e5262585ada89ef36366.jpg",
+    "static/media/Image3.jpg": "/Online-Shop/static/media/Image3.870e700406c674155110.jpg",
+    "static/media/Image7.png": "/Online-Shop/static/media/Image7.7ff971f6fce3562e5e67.png",
+    "index.html": "/Online-Shop/index.html",
+    "main.ee74acb7.css.map": "/Online-Shop/static/css/main.ee74acb7.css.map",
+    "main.cdd73d58.js.map": "/Online-Shop/static/js/main.cdd73d58.js.map"
   },
   "entrypoints": [
     "static/css/main.ee74acb7.css",
-    "static/js/main.00e47356.js"
+    "static/js/main.cdd73d58.js"
   ]
 }
